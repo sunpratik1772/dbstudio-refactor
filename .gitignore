@@ -1,0 +1,14 @@
+__pycache__/
+  *.pyc
+  .venv/
+  .env
+  .pytest_cache/
+  .mypy_cache/
+  *.egg-info/
+  dist/
+  build/
+  backend/drafts/*.json
+  !backend/drafts/.gitkeep
+  backend/executions/*.json
+  !backend/executions/.gitkeep
+  
